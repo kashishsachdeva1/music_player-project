@@ -41,6 +41,6 @@
 
 **Live Demo**:
 
-- You can try the live demo of this music player by visiting [this link](https://yourgithubusername.github.io/Spotify-Inspired-Music-Player/).
+- You can try the live demo of this music player by visiting [this link](https://kashishsachdeva1.github.io/Spotify-Inspired-Music-Player/).
 
 Feel free to customize the summary with your specific project details and replace `yourgithubusername` with your GitHub username or organization name when sharing it on GitHub.
