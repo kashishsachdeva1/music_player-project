@@ -1,4 +1,4 @@
-**Repository Name**: Spotify-Inspired-Music-Player
+**project Name**: Spotify-Inspired-Music-Player
 
 **Description**: This GitHub repository contains a web-based music player inspired by Spotify. It allows users to play a list of songs, displaying album artwork and song details. Users can control playback, switch between songs, and enjoy a visual experience with album art and animations.
 
