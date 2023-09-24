@@ -1,0 +1,158 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&family=Varela+Round&family=Zilla+Slab&display=swap');
+
+
+
+body{
+    background-color: antiquewhite;
+
+}
+*
+{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    font-family: sans-serif;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    height: 65px;
+    background-color: black;
+    color: white;
+}
+nav ul li{
+    padding: 0 12px;
+}
+.brand img
+{
+   width: 48px;
+   /* margin: 8px 0px 8rem 8px; */
+   padding:0 8px;
+}
+.brand{
+    display: flex;
+    align-items: center;
+    font-weight: bolder;
+    font-size: 1.9rem;
+}
+.container
+{
+    min-height: 72vh;
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+    display: flex;
+    width:70%;
+    margin:23px auto;
+    border-radius:12px ;
+    padding: 34px;
+    background:url('content/bg.jpg') no-repeat center/cover;
+
+}
+
+.bottom
+{
+    position: sticky;/*ye puchne hian viviek s  */
+    background-color: black;
+    height: 130px;
+    bottom: 0;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column-reverse;
+}
+#myProgressBar
+{
+    cursor: pointer;
+    width :40vw;
+    height: 15px;
+    position: relative;
+
+}
+.icons{
+    height: 7vh;
+    padding: auto;
+
+}
+#a,#c
+{
+    margin: 0 23px;
+}
+#a:hover,#c:hover,#d:hover,#e:hover
+{
+   color: white;
+}
+
+#a,#e,#c,#d
+{
+    color:  rgb(150, 154, 157); 
+}
+.icons i
+{
+    cursor: pointer;
+    
+}
+.songItemContainer
+{
+    margin-top:34px;
+}
+.songItem
+{
+    height: 50px;
+    display:flex;
+    background-color: rgb(79, 76, 76);
+    /* width:80%; */
+    color: white;
+    margin:12px 0;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 34px;
+    font-size: large;
+    font-family:Varela+Round;
+    cursor:pointer;
+    
+    
+
+}
+.songItem img{
+    width:43px;
+    margin: 0 23px ;
+    border-radius: 4px;
+    
+}
+.heart,.share
+{
+    padding: 5px 15px 0px 0px;
+    cursor: pointer;
+    float: left;
+}
+.timestamp
+{
+    margin:0 23px;
+}
+.timestamp i
+{
+    cursor: pointer;
+}
+.songInfo
+{
+    position: absolute;
+    left:5vh;
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+}
+.songInfo img{
+    opacity:0;
+    transition: opacity 0.4s ease-in;
+}
+.songInfo i{
+    display: flex;
+    flex-direction:row;
+}
+
+
