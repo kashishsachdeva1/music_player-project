@@ -1,10 +1,10 @@
-**project Name**: Spotify-Inspired-Music-Player
+**Project Name**: Spotify-Inspired-Music-Player
 
 **Description**: This GitHub repository contains a web-based music player inspired by Spotify. It allows users to play a list of songs, displaying album artwork and song details. Users can control playback, switch between songs, and enjoy a visual experience with album art and animations.
 
 **Project Structure**:
 
-- **HTML (`index.html`)**: The main HTML file for the web application, providing the structure and layout of the music player interface.
+- **HTML (`main.html`)**: The main HTML file for the web application, providing the structure and layout of the music player interface.
 
 - **CSS (`style.css`)**: The CSS file that defines the styles and layout for the entire application, including navigation, song list, and player controls.
 
