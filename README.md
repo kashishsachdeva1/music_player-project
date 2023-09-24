@@ -41,6 +41,6 @@
 
 **Live Demo**:
 
-- You can try the live demo of this music player by visiting [Live Demo](https://github.com/kashishsachdeva1/music_player-project/blob/main/main.html)
+- You can try the live demo of this music player by visiting [Live Demo](https://github.com/kashishsachdeva1/music_player-project)
 
 Feel free to customize the summary with your specific project details and replace `yourgithubusername` with your GitHub username or organization name when sharing it on GitHub.
